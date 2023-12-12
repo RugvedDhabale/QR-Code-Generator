@@ -27,3 +27,7 @@ This example generates a QR code linking to "https://google.com" and saves it as
 Feel free to explore and customize the script to integrate QR code generation seamlessly into your projects.
 
 **Note:** Ensure that you have the required dependencies installed, such as the `qrcode` library, which can typically be installed via `pip install qrcode[pil]`.
+
+### Supporting output media 
+![image](https://github.com/RugvedDhabale/QR-Code-Generator/assets/99216117/22b67f75-523a-4461-a1e4-f1f1c4e1cfe6)
+
