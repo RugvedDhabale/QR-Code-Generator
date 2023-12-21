@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 # Import QRCode from pyqrcode 
@@ -21,27 +17,6 @@ url.svg("myqr.svg", scale = 8)
 
 # Create and save the png file naming "myqr.png" 
 url.png('myqr.png', scale = 6) 
-
-
-# In[2]:
-
-
-pip install pyqrcode
-
-
-# In[3]:
-
-
-pip install pypng
-
-
-# In[2]:
-
-
-
-
-
-# In[ ]:
 
 
 
